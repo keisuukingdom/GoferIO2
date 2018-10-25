@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="PCSComProc.My.MySettings" type="System.Configuration.ClientSettingsSection, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+            <section name="PCSLib.My.MySettings" type="System.Configuration.ClientSettingsSection, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <!-- DB接続文字列 -->
+    <!-- [項目名]                   :[項目内容] -->
+    <!-- ====================================================================================== -->
+    <!-- CONN_ONAMBA                : DB接続文字列-->
+    <connectionStrings>
+        <add name="CNS_CON_ONAMBA" connectionString="Data Source=(Local);Initial Catalog=ONAMBA;Persist Security Info=True;User ID=ONAMBA;Password=ONAMBAONAMBA" />
+    </connectionStrings>
+    <system.diagnostics>
+        <sources>
+            <!-- このセクションでは、My.Application.Log のログ構成を定義します。 -->
+            <source name="DefaultSource" switchName="DefaultSwitch">
+                <listeners>
+                    <add name="FileLog"/>
+                    <!-- アプリケーション イベント ログに書き込むには、以下のセクションのコメントを解除します -->
+                    <!--<add name="EventLog"/>-->
+                </listeners>
+            </source>
+        </sources>
+        <!-- ログ出力レベル -->
+        <!-- [項目名]                   :[項目内容] -->
+        <!-- ====================================================================================== -->
+        <!-- DefaultSwitch              : デフォルトスイッチ(ログ出力レベル)(Error・Warning・Information・Verbose)-->
+        <switches>
+            <add name="DefaultSwitch" value="Warning" />
+        </switches>
+        <sharedListeners>
+            <add name="FileLog"
+                 type="Microsoft.VisualBasic.Logging.FileLogTraceListener, Microsoft.VisualBasic, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
+                 initializeData="FileLogWriter"/>
+            <!-- アプリケーション イベント ログに書き込むには、以下のセクションのコメントを解除して、APPLICATION_NAME をアプリケーション名に置き換えます -->
+            <!--<add name="EventLog" type="System.Diagnostics.EventLogTraceListener" initializeData="APPLICATION_NAME"/> -->
+        </sharedListeners>
+    </system.diagnostics>
+    <userSettings>
+      <!-- アプリケーション設定 -->
+      <!-- [項目名]                        :[項目内容] -->
+      <!-- ====================================================================================== -->
+      <!-- アプリケーション設定は自動生成されるため、下記コメントとは順番が異なる場合があります -->
+      <!-- ====================================================================================== -->
+      <!-- CNS_CONFIG                      : 共通iniファイルパス -->
+      <!-- CNS_HEAD_TXT                    : 装置アドレス画面表示名 -->
+      <!-- CNS_HEAD_Time                   : 受信日時画面表示名 -->
+      <!-- CNS_LOG_ROWS                    : 通信ログ最大表示行数 -->
+      <!-- CNS_EXE_MAX                     : プロセス最大起動数 -->
+      <!-- CNS_FROM_CMD_0100               : 新電元送信元アドレス指定 -->
+      <!-- CNS_APPNM                       : アプリケーション名 -->
+      <!-- CNS_NOPOL_RCVCHK_ITVL           : ノンポーリング・受信チェック間隔 -->
+      <!-- CNS_NOPOL_SRIREAD_ITVL          : ノンポーリング・シリアル読み込み間隔 -->
+      <!-- CNS_UPD_STS                     : 状態通知日時更新有無（なし：0、あり：1） -->
+      <!-- CNS_DBSAVE_TYPE                 : Rawデータ保存タイプ(0：LineNo別テーブル使用、1：LineNo区別なし) -->
+      <!-- CNS_ALMFLG_COM                  : 通信異常発生・アラームフラグ（AlarmHis未使用時のみ有効） -->
+      <!-- CNS_PORT_OPEN_RET_CNT           : シリアルポートオープンリトライ回数 -->
+      <!-- CNS_PORT_ERR_WAITTIME           : シリアルポートオープンリトライ間隔(ms) -->
+      <!-- CNS_BUF_SIZE                    : 受信バッファサイズ(バイト) -->
+      <!-- CNS_NOPOL_ENTRY_ITVL            : ノンポーリング・受信電文格納間隔(ms) -->
+      <!-- CNS_COM_CONTCT_UNIT             : 外部接点ユニット通信有無 -->
+      <!-- CNS_TCP_CONNECT_TOUT            : TCP接続タイムアウト時間(ms) -->
+      <!-- CNS_NEW_COM                     : 新方式通信フラグ(オムロンのみ) -->
+      <!-- CNS_GET_ALM_SHORT_CYCLE         : 非継続アラーム取得（なし：0、あり：1） -->
+      <!-- CNS_SHORT_CYCLE_ITVL            : 非継続アラーム収集間隔(ms) -->
+      <!-- CNS_LOGF_SIZE                   : ログファイルサイズ(Byte) -->
+      <!-- CNS_DEL_LIMIT                   : ログファイル保持期間(日) -->
+      <!-- CNS_SERVICE_NAME                : SQLServerサービス名 -->
+      <!-- CNS_SERVICE_TIMEOUT             : サービス名チェック・タイムアウト時間(ms) -->
+      <!-- CNS_SERVICE_INTERVAL            : サービス名チェック・チェック間隔(ms) -->
+      <!-- CNS_TCP_THREAD_COM_NUM          : 1スレッドあたりの通信装置数(TCP)(0指定で無制限(既存ロジック)) -->
+      <!-- CNS_CON_SAVE_COL                : 外部接点取得時の格納先カラム名 -->
+      <!-- CNS_CTRL_PCS                    : PCS制御実施有無（なし：0、あり：1） -->
+      <!-- CNS_SND_COMSTS                  : PCS通信ステータス通知実施有無（なし：0、あり：1） -->
+      <!-- CNS_SND_STSPORT                 : PCS通信ステータス通知ポート名 -->
+      <!-- CNS_REGL_CTRL_PCS_ITVL          : 定期制御コマンド送信間隔(s) -->
+      <!-- CNS_COMERR_ALMCODE              : 通信異常アラームコード（AlarmHis使用時のみ有効） -->
+      <!-- CNS_COMERR_DOCTRL               : 通信異常時の制御接点出力有無（なし：0、あり：1） -->
+      <!-- CNS_NOPOLING_FLG                : ノンポーリングフラグ（オムロンのみ）（ポーリング：0、ノンポーリング：1） -->
+      <!-- ====================================================================================== -->
+      <PCSComProc.My.MySettings>
+        <setting name="CNS_CONFIG" serializeAs="String">
+          <value>.\PCSComProc.ini</value>
+        </setting>
+        <setting name="CNS_HEAD_TXT" serializeAs="String">
+          <value>パワコンアドレス</value>
+        </setting>
+        <setting name="CNS_HEAD_Time" serializeAs="String">
+          <value>受信日時</value>
+        </setting>
+        <setting name="CNS_LOG_ROWS" serializeAs="String">
+          <value>10000</value>
+        </setting>
+        <setting name="CNS_EXE_MAX" serializeAs="String">
+          <value>4</value>
+        </setting>
+        <setting name="CNS_FROM_CMD_0100" serializeAs="String">
+          <value>00</value>
+        </setting>
+        <setting name="CNS_APPNM" serializeAs="String">
+          <value>PCS データ収集プロセス</value>
+        </setting>
+        <setting name="CNS_NOPOL_RCVCHK_ITVL" serializeAs="String">
+          <value>10</value>
+        </setting>
+        <setting name="CNS_NOPOL_SRIREAD_ITVL" serializeAs="String">
+          <value>10</value>
+        </setting>
+        <setting name="CNS_UPD_STS" serializeAs="String">
+          <value>1</value>
+        </setting>
+        <setting name="CNS_DBSAVE_TYPE" serializeAs="String">
+          <value>0</value>
+        </setting>
+        <setting name="CNS_ALMFLG_COM" serializeAs="String">
+          <value>0</value>
+        </setting>
+        <setting name="CNS_PORT_OPEN_RET_CNT" serializeAs="String">
+          <value>3</value>
+        </setting>
+        <setting name="CNS_PORT_ERR_WAITTIME" serializeAs="String">
+          <value>30000</value>
+        </setting>
+        <setting name="CNS_BUF_SIZE" serializeAs="String">
+          <value>65535</value>
+        </setting>
+        <setting name="CNS_NOPOL_ENTRY_ITVL" serializeAs="String">
+          <value>6000</value>
+        </setting>
+        <setting name="CNS_COM_CONTCT_UNIT" serializeAs="String">
+          <value>0</value>
+        </setting>
+        <setting name="CNS_TCP_CONNECT_TOUT" serializeAs="String">
+          <value>500</value>
+        </setting>
+        <setting name="CNS_NEW_COM" serializeAs="String">
+          <value>0</value>
+        </setting>
+        <setting name="CNS_GET_ALM_SHORT_CYCLE" serializeAs="String">
+          <value>0</value>
+        </setting>
+        <setting name="CNS_SHORT_CYCLE_ITVL" serializeAs="String">
+          <value>1000</value>
+        </setting>
+        <setting name="CNS_LOGF_SIZE" serializeAs="String">
+          <value>10000000</value>
+        </setting>
+        <setting name="CNS_DEL_LIMIT" serializeAs="String">
+          <value>3</value>
+        </setting>
+        <setting name="CNS_SERVICE_NAME" serializeAs="String">
+          <value>MSSQLSERVER</value>
+        </setting>
+        <setting name="CNS_SERVICE_TIMEOUT" serializeAs="String">
+          <value>300000</value>
+        </setting>
+        <setting name="CNS_SERVICE_INTERVAL" serializeAs="String">
+          <value>1000</value>
+        </setting>
+        <setting name="CNS_TCP_THREAD_COM_NUM" serializeAs="String">
+          <value>3</value>
+        </setting>
+        <setting name="CNS_CON_SAVE_COL" serializeAs="String">
+          <value>Col011</value>
+        </setting>
+        <setting name="CNS_CTRL_PCS" serializeAs="String">
+          <value>0</value>
+        </setting>
+        <setting name="CNS_SND_COMSTS" serializeAs="String">
+          <value>0</value>
+        </setting>
+        <setting name="CNS_SND_STSPORT" serializeAs="String">
+          <value>COM2</value>
+        </setting>
+        <setting name="CNS_1000_REQ_LEN" serializeAs="String">
+          <value>50</value>
+        </setting>
+        <setting name="CNS_REGL_CTRL_PCS_ITVL" serializeAs="String">
+          <value>60</value>
+        </setting>
+        <setting name="CNS_COMERR_ALMCODE" serializeAs="String">
+          <value>0000009999</value>
+        </setting>
+        <setting name="CNS_COMERR_DOCTRL" serializeAs="String">
+          <value>0</value>
+        </setting>
+        <setting name="CNS_NOPOLING_FLG" serializeAs="String">
+          <value>1</value>
+        </setting>
+      </PCSComProc.My.MySettings>
+    </userSettings>
+    <appSettings>
+      <!-- アプリケーション設定 -->
+      <!-- [項目名]                        :[項目内容] -->
+      <!-- ====================================================================================== -->
+      <!-- CNS_NOT_CONTINUE_ERR_INFO_****  : 非継続エラー検出パラメータ値（T_RawPCSのカラムを指定） -->
+      <!-- ====================================================================================== -->
+      <add key="CNS_NOT_CONTINUE_ERR_INFO_0021" value="1,Col002,Col003,Col004,Col005,Col006,Col007,Col008,Col009,Col010"/>
+      <add key="CNS_NOT_CONTINUE_ERR_INFO_0111" value="1,Col006,Col007,Col008,Col009,Col010,Col011,Col012,Col013"/>
+    </appSettings>
+</configuration>

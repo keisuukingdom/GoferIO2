@@ -1,0 +1,1274 @@
+2017/06/14 09:53:49.221	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 09:53:49.268	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 09:54:20.842	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 09:54:20.842	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 09:55:20.824	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 09:55:20.824	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 09:56:20.916	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 09:56:20.916	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:02:34.433	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:02:34.480	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:03:20.250	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:03:20.266	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:04:20.232	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:04:20.232	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:05:20.214	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:05:20.214	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:06:20.196	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:06:20.212	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:07:20.178	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:07:20.194	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:08:20.161	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:08:20.161	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:09:21.141	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:09:21.141	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:10:21.123	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:10:21.139	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:11:21.105	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:11:21.121	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:12:21.087	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:12:21.103	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:13:21.069	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:13:21.085	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:14:21.052	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:14:21.052	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:15:21.034	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:15:21.034	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:16:21.016	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:16:21.016	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:17:20.998	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:17:20.998	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:18:20.980	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:18:20.996	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:19:20.978	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:19:20.978	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:20:20.944	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:20:20.960	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:21:20.926	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:21:20.926	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:22:20.893	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:22:20.893	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:23:20.875	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:23:20.891	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:24:20.857	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:24:20.857	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:25:20.839	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:25:20.839	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:26:20.821	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:26:20.837	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:27:20.803	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:27:20.803	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:28:20.785	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:28:20.785	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:29:20.768	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:29:20.783	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:30:20.796	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:30:20.796	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:31:20.763	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:31:20.779	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:32:20.745	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:32:20.761	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:33:20.727	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:33:20.743	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:34:20.709	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:34:20.725	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:35:20.691	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:35:20.691	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:36:20.673	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:36:20.673	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:37:20.640	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:37:20.640	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:38:20.607	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:38:20.607	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:39:20.589	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:39:20.604	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:40:20.571	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:40:20.586	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:41:20.553	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:41:20.568	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:42:20.535	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:42:20.551	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:43:20.517	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:43:20.517	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:44:20.484	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:44:20.484	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:45:20.466	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:45:20.481	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:46:20.448	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:46:20.463	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:47:20.430	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:47:20.430	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:48:20.396	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:48:20.396	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:49:20.378	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:49:20.394	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:50:20.361	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:50:20.361	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:51:20.358	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:51:20.358	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:52:20.340	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:52:20.340	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:53:20.338	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:53:20.338	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:54:20.320	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:54:20.320	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:55:20.302	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:55:20.302	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:56:20.284	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:56:20.284	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 10:57:20.267	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 10:57:20.267	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 11:02:53.273	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 11:02:53.319	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 11:03:20.872	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 11:03:20.888	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 11:04:20.851	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 11:04:20.866	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 11:05:21.020	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 11:05:21.020	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 11:06:21.002	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 11:06:21.002	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 11:10:47.190	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 11:10:47.237	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 11:11:20.855	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 11:11:20.855	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 11:12:20.853	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 11:12:20.853	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 11:13:20.849	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 11:13:20.849	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 11:14:20.816	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 11:14:20.832	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 11:15:20.798	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 11:15:20.814	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 11:16:20.803	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 11:16:20.803	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 11:17:20.767	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 11:17:20.783	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 11:18:20.750	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 11:18:20.765	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 11:19:20.732	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 11:19:20.732	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 11:25:47.124	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 11:25:47.170	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 11:26:20.778	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 11:26:20.778	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 11:27:20.758	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 11:27:20.774	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 11:28:56.546	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 11:28:56.577	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 11:29:21.054	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 11:29:21.069	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 11:30:54.976	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 11:30:55.007	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 11:32:20.876	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 11:32:20.939	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 11:33:20.650	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 11:33:20.697	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 11:34:51.133	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 11:34:51.164	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 11:36:56.308	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 11:36:56.355	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 11:39:36.312	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 11:39:36.359	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 11:40:20.352	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 11:40:20.352	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 11:41:27.317	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 11:41:27.364	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 11:42:20.326	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 11:42:20.326	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 11:44:20.665	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 11:44:20.696	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 11:45:21.006	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 11:45:21.022	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 11:46:21.101	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 11:46:21.148	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 11:47:21.114	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 11:47:21.130	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 11:49:20.624	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 11:49:20.655	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 11:50:44.647	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 11:50:44.693	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 11:54:33.024	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 11:54:33.071	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 11:57:35.326	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 11:57:35.358	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]
+2017/06/14 11:58:49.093	AlarmMail MailSend: メッセージ送信中・・・
+2017/06/14 11:58:49.139	AlarmMail MailSend: メッセージ送信エラー! [System.Net.Mail.SmtpException: メールを送信できませんでした。 ---> System.Net.WebException: リモート名を解決できませんでした。: 'soleil.ocn.ne.jp'
+   場所 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6, Int32 timeout)
+   場所 System.Net.PooledStream.Activate(Object owningObject, Boolean async, Int32 timeout, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   場所 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   場所 System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   場所 System.Net.Mail.SmtpClient.GetConnection()
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   場所 AlarmMail.MainForm.MailSend()]

@@ -1,0 +1,4 @@
+﻿DefaultSource	Warning	1	2018/05/31 14:28:40.908	Rn装置収集プロセス起動
+DefaultSource	Warning	1	2018/05/31 14:28:51.068	Rn装置収集プロセス終了
+DefaultSource	Error	2	2018/05/31 17:20:57.688	対象装置に対するTCP情報が未登録です。(UnitID：1)
+DefaultSource	Error	2	2018/05/31 17:20:57.688	【異常終了】入力アナログ値変換情報生成

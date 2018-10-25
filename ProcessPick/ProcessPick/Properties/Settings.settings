@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ProcessPick.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="servername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">(local)</Value>
+    </Setting>
+    <Setting Name="DBname" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ONAMBA</Value>
+    </Setting>
+    <Setting Name="UID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ONAMBA</Value>
+    </Setting>
+    <Setting Name="Pass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ONAMBAONAMBA</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

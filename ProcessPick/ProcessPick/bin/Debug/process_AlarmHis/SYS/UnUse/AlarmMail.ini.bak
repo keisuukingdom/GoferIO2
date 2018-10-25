@@ -1,0 +1,117 @@
+;;==========================================================
+;; データベース設定
+;;----------------------------------------------------------
+[DB]
+Database=ONAMBA
+Provider=SQLOLEDB
+DataSource=(local)
+UID=ONAMBA
+Pass=ONAMBAONAMBA
+
+;;==========================================================
+;; ログ出力設定
+;;----------------------------------------------------------
+;; LOGENABLE            : ログ出力（0:無効 1:有効 (エラーのみ)）
+;; LOGFILEPATH          : ログ出力パス
+;;==========================================================
+[LOG]
+LOGENABLE=1
+LOGFILEPATH=.\Log\AlarmMail
+
+[Config]
+;;==========================================================
+;; システム設定
+;;----------------------------------------------------------
+;; Composited           : システムタイプ (無線版：LAN 有線版:RS)
+;; SystemID             : システムID
+;; CorrectAmpere        : 電流0補正値（mA）
+;; STRType              : ストリング形式(0:A基板 1:K基板)
+;; SystemFlg            : システムアラーム取得有無（0:無効 1:有効）
+;; PcsFlg               : PCSアラーム取得有無（0:無効 1:有効）
+;; StrFlg               : STRアラーム取得有無（0:無効 1:有効）
+;; CatFlg               : CATアラーム取得有無（0:無効 1:有効）
+;; ModFlg               : MODアラーム取得有無（0:無効 1:有効）
+;; UpsFlg               : UPSアラーム取得有無（0:無効 1:有効）
+;; PlcFlg               : PLCアラーム取得有無（0:無効 1:有効）
+;;==========================================================
+Composited=1
+SystemID=9999
+STRType=0
+SystemFlg=1
+PcsFlg=1
+StrFlg=1
+CatFlg=1
+ModFlg=1
+UpsFlg=1
+PlcFlg=1
+
+[MailConfig]
+;;==========================================================
+;; アラームメール設定
+;;----------------------------------------------------------
+;; MailCycle            : メール送信チェック間隔（min）
+;; AlarmMail            : 通知　メール
+;; AlarmMailAddress1    : メールアドレス1
+;; AlarmMailAddress2    : メールアドレス2
+;; AlarmMailAddress3    : メールアドレス3
+;; AlarmMailAddress4    : メールアドレス4
+;; AlarmMailAddress5    : メールアドレス5
+;; AlarmMailSubject     : メール件名
+;; AlarmMailStaTime     : メール送信開始時刻
+;; AlarmMailEndTime     : メール送信終了時刻
+;; UseEquipmentNm       : EquipmentNm使用有無
+;; UsePCSNm             : PCS故障箇所にPCS名を使用
+;; UseCATAlarmStr       : CAT故障内容にAlarmStrを使用
+;;==========================================================
+MailCycle=1
+AlarmMail=0
+AlarmMailAddress1=
+AlarmMailAddress2=
+AlarmMailAddress3=
+AlarmMailAddress4=
+AlarmMailAddress5=
+AlarmMailAddress6=
+AlarmMailAddress7=
+AlarmMailAddress8=
+AlarmMailAddress9=
+AlarmMailAddress10=
+AlarmMailSubject=PVU-Finderアラーム 
+AlarmMailStaTime=00:00
+AlarmMailEndTime=23:59
+UseEquipmentNm=0
+UsePCSNm=1
+UseCATAlarmStr=1
+
+;;==========================================================
+;; メールアカウント設定
+;;----------------------------------------------------------
+;; MailUserName          : ユーザー名
+;; PersonalEmail         : メールアドレス
+;; SMTPServerName        : SMTP 送信メールサーバー
+;; SMTPServerPort        : SMTP ポート
+;; SMTPServerUser        : SMTP アカウント
+;; SMTPServerPassword    : SMTP パスワード
+;; SMTPAuthenticationType: SMTP 認証 
+;; SMTPEnableSSL         : 暗号化接続にSSLを使用
+;; SmtpType              : SmtpLogin方式(0:通常 1:特殊対応)
+;;==========================================================
+MailUserName=
+PersonalEmail=
+SMTPServerName=
+SMTPServerPort=25
+SMTPServerUser=
+SMTPServerPassword=
+SMTPAuthenticationType=1
+SMTPEnableSSL=0
+SmtpType=0
+
+;;==========================================================
+;; ビープ音設定
+;;----------------------------------------------------------
+;; BeepTime              : Beep音再生時間　（sec）
+;; BeepFreq              : Beep音周波数　（hz）
+;; BeepCycle             : Beep音周期　（msec）
+;;==========================================================
+BeepTime=30
+BeepFreq=2000
+BeepCycle=3000

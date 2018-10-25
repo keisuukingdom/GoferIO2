@@ -1,0 +1,14 @@
+C:\Users\Katoh-Keisuke\Pictures\マイドキュメント\Visual Studio 2010\Projects\ProcessPick\ProcessPick\obj\x86\Debug\ProcessPick.Form1.resources
+C:\Users\Katoh-Keisuke\Pictures\マイドキュメント\Visual Studio 2010\Projects\ProcessPick\ProcessPick\obj\x86\Debug\ProcessPick.Properties.Resources.resources
+C:\Users\Katoh-Keisuke\Pictures\マイドキュメント\Visual Studio 2010\Projects\ProcessPick\ProcessPick\obj\x86\Debug\ProcessPick.csproj.GenerateResource.Cache
+C:\Users\Katoh-Keisuke\Pictures\マイドキュメント\Visual Studio 2010\Projects\ProcessPick\ProcessPick\bin\Debug\ProcessPick.exe
+C:\Users\Katoh-Keisuke\Pictures\マイドキュメント\Visual Studio 2010\Projects\ProcessPick\ProcessPick\bin\Debug\ProcessPick.pdb
+C:\Users\Katoh-Keisuke\Pictures\マイドキュメント\Visual Studio 2010\Projects\ProcessPick\ProcessPick\obj\x86\Debug\ProcessPick.exe
+C:\Users\Katoh-Keisuke\Pictures\マイドキュメント\Visual Studio 2010\Projects\ProcessPick\ProcessPick\obj\x86\Debug\ProcessPick.pdb
+C:\Users\Katoh-Keisuke\Pictures\マイドキュメント\Visual Studio 2010\Projects\ProcessPick\ProcessPick\obj\x86\Debug\ProcessPick.csprojResolveAssemblyReference.cache
+C:\Users\Katoh-Keisuke\Pictures\マイドキュメント\Visual Studio 2010\Projects\ProcessPick\ProcessPick\bin\Debug\ProcessPick.exe.config
+C:\Users\Katoh-Keisuke\Pictures\マイドキュメント\Visual Studio 2010\Projects\ProcessPick\ProcessPick\bin\Debug\app.config
+C:\Users\Katoh-Keisuke\Pictures\マイドキュメント\Visual Studio 2010\Projects\ProcessPick\ProcessPick\bin\Debug\ProcessPick.exe.manifest
+C:\Users\Katoh-Keisuke\Pictures\マイドキュメント\Visual Studio 2010\Projects\ProcessPick\ProcessPick\bin\Debug\ProcessPick.application
+C:\Users\Katoh-Keisuke\Pictures\マイドキュメント\Visual Studio 2010\Projects\ProcessPick\ProcessPick\obj\x86\Debug\ProcessPick.exe.manifest
+C:\Users\Katoh-Keisuke\Pictures\マイドキュメント\Visual Studio 2010\Projects\ProcessPick\ProcessPick\obj\x86\Debug\ProcessPick.application

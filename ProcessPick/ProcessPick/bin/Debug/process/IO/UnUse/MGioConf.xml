@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ConfigData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <strDataSource>(local)</strDataSource>
+  <strDataBase>ONAMBA</strDataBase>
+  <strUserName>ONAMBA</strUserName>
+  <strPassword>ONAMBAONAMBA</strPassword>
+  <strLogPath>.\Log</strLogPath>
+  <nLogSavePeriod>5</nLogSavePeriod>
+  <nLogDisp>0</nLogDisp>
+  <nPollCycle>6</nPollCycle>
+  <nTCPTimeOut>1000</nTCPTimeOut>
+  <nDIPortMax>32</nDIPortMax>
+  <nDIReadCycle>60</nDIReadCycle>
+  <nDIOnCount>3</nDIOnCount>
+  <nDIOffCount>0</nDIOffCount>
+  <bDILatch>true</bDILatch>
+  <nAIReadCycle>3</nAIReadCycle>
+  <nCounterReadCycle>6</nCounterReadCycle>
+  <bAllDay>false</bAllDay>
+  <nMaxCount>2147483648</nMaxCount>
+  <dtStartTime>2017-12-12T05:00:00</dtStartTime>
+  <dtEndTime>2017-12-12T23:59:00</dtEndTime>
+</ConfigData>

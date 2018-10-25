@@ -1,0 +1,4 @@
+﻿DefaultSource	Warning	1	2017/06/22 10:33:22.297	String時間管理プロセス起動
+DefaultSource	Error	2	2017/06/22 10:33:22.422	M_Unitマスタにデータが存在しません。
+DefaultSource	Error	2	2017/06/22 10:33:22.422	【異常終了】ユニットマスタ取得
+DefaultSource	Warning	1	2017/06/22 10:33:25.729	String時間管理プロセス終了

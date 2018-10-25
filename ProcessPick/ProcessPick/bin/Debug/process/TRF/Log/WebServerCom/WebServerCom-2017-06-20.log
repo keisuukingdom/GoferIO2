@@ -1,0 +1,241 @@
+﻿DefaultSource	Error	2	2017/06/20 14:42:27.387	iniファイル情報が読み込めませんでした。[WebServerCom]:EventStartDate
+DefaultSource	Warning	1	2017/06/20 14:42:27.480	WebServerCom起動完了
+DefaultSource	Critical	3	2017/06/20 14:42:28.557	リモート サーバーがエラーを返しました: (404) 見つかりません	   場所 System.Net.HttpWebRequest.GetResponse()
+   場所 WebServerCom.clsWebCom.WebServerComProc(String sSendData, String& sResText)
+DefaultSource	Error	2	2017/06/20 14:42:28.557	【異常終了】テスト通信処理
+DefaultSource	Error	2	2017/06/20 14:42:28.557	【応答電文】
+
+DefaultSource	Critical	3	2017/06/20 14:43:28.580	リモート サーバーがエラーを返しました: (404) 見つかりません	   場所 System.Net.HttpWebRequest.GetResponse()
+   場所 WebServerCom.clsWebCom.WebServerComProc(String sSendData, String& sResText)
+DefaultSource	Error	2	2017/06/20 14:43:28.580	【異常終了】テスト通信処理
+DefaultSource	Error	2	2017/06/20 14:43:28.580	【応答電文】
+
+DefaultSource	Critical	3	2017/06/20 14:44:28.593	リモート サーバーがエラーを返しました: (404) 見つかりません	   場所 System.Net.HttpWebRequest.GetResponse()
+   場所 WebServerCom.clsWebCom.WebServerComProc(String sSendData, String& sResText)
+DefaultSource	Error	2	2017/06/20 14:44:28.593	【異常終了】テスト通信処理
+DefaultSource	Error	2	2017/06/20 14:44:28.593	【応答電文】
+
+DefaultSource	Critical	3	2017/06/20 14:45:28.608	リモート サーバーがエラーを返しました: (404) 見つかりません	   場所 System.Net.HttpWebRequest.GetResponse()
+   場所 WebServerCom.clsWebCom.WebServerComProc(String sSendData, String& sResText)
+DefaultSource	Error	2	2017/06/20 14:45:28.608	【異常終了】テスト通信処理
+DefaultSource	Error	2	2017/06/20 14:45:28.608	【応答電文】
+
+DefaultSource	Critical	3	2017/06/20 14:46:28.613	リモート サーバーがエラーを返しました: (404) 見つかりません	   場所 System.Net.HttpWebRequest.GetResponse()
+   場所 WebServerCom.clsWebCom.WebServerComProc(String sSendData, String& sResText)
+DefaultSource	Error	2	2017/06/20 14:46:28.613	【異常終了】テスト通信処理
+DefaultSource	Error	2	2017/06/20 14:46:28.613	【応答電文】
+
+DefaultSource	Warning	1	2017/06/20 14:47:09.765	WebServerCom終了
+DefaultSource	Error	2	2017/06/20 14:52:27.477	iniファイル情報が読み込めませんでした。[WebServerCom]:EventStartDate
+DefaultSource	Warning	1	2017/06/20 14:52:27.540	WebServerCom起動完了
+DefaultSource	Critical	3	2017/06/20 14:52:27.961	リモート サーバーがエラーを返しました: (404) 見つかりません	   場所 System.Net.HttpWebRequest.GetResponse()
+   場所 WebServerCom.clsWebCom.WebServerComProc(String sSendData, String& sResText)
+DefaultSource	Error	2	2017/06/20 14:52:27.961	【異常終了】テスト通信処理
+DefaultSource	Error	2	2017/06/20 14:52:27.961	【応答電文】
+
+DefaultSource	Critical	3	2017/06/20 14:53:27.966	リモート サーバーがエラーを返しました: (404) 見つかりません	   場所 System.Net.HttpWebRequest.GetResponse()
+   場所 WebServerCom.clsWebCom.WebServerComProc(String sSendData, String& sResText)
+DefaultSource	Error	2	2017/06/20 14:53:27.966	【異常終了】テスト通信処理
+DefaultSource	Error	2	2017/06/20 14:53:27.966	【応答電文】
+
+DefaultSource	Critical	3	2017/06/20 14:54:27.981	リモート サーバーがエラーを返しました: (404) 見つかりません	   場所 System.Net.HttpWebRequest.GetResponse()
+   場所 WebServerCom.clsWebCom.WebServerComProc(String sSendData, String& sResText)
+DefaultSource	Error	2	2017/06/20 14:54:27.981	【異常終了】テスト通信処理
+DefaultSource	Error	2	2017/06/20 14:54:27.981	【応答電文】
+
+DefaultSource	Warning	1	2017/06/20 14:54:37.018	WebServerCom終了
+DefaultSource	Error	2	2017/06/20 14:57:22.451	iniファイル情報が読み込めませんでした。[WebServerCom]:EventStartDate
+DefaultSource	Warning	1	2017/06/20 14:57:22.514	WebServerCom起動完了
+DefaultSource	Critical	3	2017/06/20 14:57:22.919	リモート サーバーがエラーを返しました: (404) 見つかりません	   場所 System.Net.HttpWebRequest.GetResponse()
+   場所 WebServerCom.clsWebCom.WebServerComProc(String sSendData, String& sResText)
+DefaultSource	Error	2	2017/06/20 14:57:22.919	【異常終了】テスト通信処理
+DefaultSource	Error	2	2017/06/20 14:57:22.919	【応答電文】
+
+DefaultSource	Critical	3	2017/06/20 14:58:22.938	リモート サーバーがエラーを返しました: (404) 見つかりません	   場所 System.Net.HttpWebRequest.GetResponse()
+   場所 WebServerCom.clsWebCom.WebServerComProc(String sSendData, String& sResText)
+DefaultSource	Error	2	2017/06/20 14:58:22.938	【異常終了】テスト通信処理
+DefaultSource	Error	2	2017/06/20 14:58:22.938	【応答電文】
+
+DefaultSource	Warning	1	2017/06/20 14:59:02.484	WebServerCom終了
+DefaultSource	Error	2	2017/06/20 15:01:04.024	iniファイル情報が読み込めませんでした。[WebServerCom]:EventStartDate
+DefaultSource	Warning	1	2017/06/20 15:01:04.086	WebServerCom起動完了
+DefaultSource	Critical	3	2017/06/20 15:01:04.507	リモート サーバーがエラーを返しました: (404) 見つかりません	   場所 System.Net.HttpWebRequest.GetResponse()
+   場所 WebServerCom.clsWebCom.WebServerComProc(String sSendData, String& sResText)
+DefaultSource	Error	2	2017/06/20 15:01:04.507	【異常終了】テスト通信処理
+DefaultSource	Error	2	2017/06/20 15:01:04.507	【応答電文】
+
+DefaultSource	Warning	1	2017/06/20 15:01:27.782	WebServerCom終了
+DefaultSource	Error	2	2017/06/20 15:02:43.052	iniファイル情報が読み込めませんでした。[WebServerCom]:EventStartDate
+DefaultSource	Warning	1	2017/06/20 15:02:43.114	WebServerCom起動完了
+DefaultSource	Critical	3	2017/06/20 15:02:43.520	リモート サーバーがエラーを返しました: (404) 見つかりません	   場所 System.Net.HttpWebRequest.GetResponse()
+   場所 WebServerCom.clsWebCom.WebServerComProc(String sSendData, String& sResText)
+DefaultSource	Error	2	2017/06/20 15:02:43.535	【異常終了】テスト通信処理
+DefaultSource	Error	2	2017/06/20 15:02:43.535	【応答電文】
+
+DefaultSource	Critical	3	2017/06/20 15:03:43.549	リモート サーバーがエラーを返しました: (404) 見つかりません	   場所 System.Net.HttpWebRequest.GetResponse()
+   場所 WebServerCom.clsWebCom.WebServerComProc(String sSendData, String& sResText)
+DefaultSource	Error	2	2017/06/20 15:03:43.549	【異常終了】テスト通信処理
+DefaultSource	Error	2	2017/06/20 15:03:43.549	【応答電文】
+
+DefaultSource	Warning	1	2017/06/20 15:04:21.925	WebServerCom終了
+DefaultSource	Error	2	2017/06/20 15:05:13.608	iniファイル情報が読み込めませんでした。[WebServerCom]:EventStartDate
+DefaultSource	Warning	1	2017/06/20 15:05:13.670	WebServerCom起動完了
+DefaultSource	Critical	3	2017/06/20 15:05:14.076	リモート サーバーがエラーを返しました: (404) 見つかりません	   場所 System.Net.HttpWebRequest.GetResponse()
+   場所 WebServerCom.clsWebCom.WebServerComProc(String sSendData, String& sResText)
+DefaultSource	Error	2	2017/06/20 15:05:14.091	【異常終了】テスト通信処理
+DefaultSource	Error	2	2017/06/20 15:05:14.091	【応答電文】
+
+DefaultSource	Critical	3	2017/06/20 15:06:14.103	リモート サーバーがエラーを返しました: (404) 見つかりません	   場所 System.Net.HttpWebRequest.GetResponse()
+   場所 WebServerCom.clsWebCom.WebServerComProc(String sSendData, String& sResText)
+DefaultSource	Error	2	2017/06/20 15:06:14.103	【異常終了】テスト通信処理
+DefaultSource	Error	2	2017/06/20 15:06:14.103	【応答電文】
+
+DefaultSource	Warning	1	2017/06/20 15:07:00.083	WebServerCom終了
+DefaultSource	Error	2	2017/06/20 15:12:12.413	iniファイル情報が読み込めませんでした。[WebServerCom]:EventStartDate
+DefaultSource	Warning	1	2017/06/20 15:12:12.475	WebServerCom起動完了
+DefaultSource	Critical	3	2017/06/20 15:12:12.881	リモート サーバーがエラーを返しました: (404) 見つかりません	   場所 System.Net.HttpWebRequest.GetResponse()
+   場所 WebServerCom.clsWebCom.WebServerComProc(String sSendData, String& sResText)
+DefaultSource	Error	2	2017/06/20 15:12:12.896	【異常終了】テスト通信処理
+DefaultSource	Error	2	2017/06/20 15:12:12.896	【応答電文】
+
+DefaultSource	Critical	3	2017/06/20 15:13:12.910	リモート サーバーがエラーを返しました: (404) 見つかりません	   場所 System.Net.HttpWebRequest.GetResponse()
+   場所 WebServerCom.clsWebCom.WebServerComProc(String sSendData, String& sResText)
+DefaultSource	Error	2	2017/06/20 15:13:12.910	【異常終了】テスト通信処理
+DefaultSource	Error	2	2017/06/20 15:13:12.910	【応答電文】
+
+DefaultSource	Warning	1	2017/06/20 15:14:00.948	WebServerCom終了
+DefaultSource	Error	2	2017/06/20 15:17:09.837	iniファイル情報が読み込めませんでした。[WebServerCom]:EventStartDate
+DefaultSource	Warning	1	2017/06/20 15:17:09.899	WebServerCom起動完了
+DefaultSource	Critical	3	2017/06/20 15:17:10.320	リモート サーバーがエラーを返しました: (404) 見つかりません	   場所 System.Net.HttpWebRequest.GetResponse()
+   場所 WebServerCom.clsWebCom.WebServerComProc(String sSendData, String& sResText)
+DefaultSource	Error	2	2017/06/20 15:17:10.320	【異常終了】テスト通信処理
+DefaultSource	Error	2	2017/06/20 15:17:10.336	【応答電文】
+
+DefaultSource	Critical	3	2017/06/20 15:18:10.349	リモート サーバーがエラーを返しました: (404) 見つかりません	   場所 System.Net.HttpWebRequest.GetResponse()
+   場所 WebServerCom.clsWebCom.WebServerComProc(String sSendData, String& sResText)
+DefaultSource	Error	2	2017/06/20 15:18:10.349	【異常終了】テスト通信処理
+DefaultSource	Error	2	2017/06/20 15:18:10.349	【応答電文】
+
+DefaultSource	Critical	3	2017/06/20 15:19:10.351	リモート サーバーがエラーを返しました: (404) 見つかりません	   場所 System.Net.HttpWebRequest.GetResponse()
+   場所 WebServerCom.clsWebCom.WebServerComProc(String sSendData, String& sResText)
+DefaultSource	Error	2	2017/06/20 15:19:10.351	【異常終了】テスト通信処理
+DefaultSource	Error	2	2017/06/20 15:19:10.351	【応答電文】
+
+DefaultSource	Warning	1	2017/06/20 15:19:51.177	WebServerCom終了
+DefaultSource	Error	2	2017/06/20 15:25:07.042	iniファイル情報が読み込めませんでした。[WebServerCom]:EventStartDate
+DefaultSource	Warning	1	2017/06/20 15:25:07.105	WebServerCom起動完了
+DefaultSource	Critical	3	2017/06/20 15:25:07.526	リモート サーバーがエラーを返しました: (404) 見つかりません	   場所 System.Net.HttpWebRequest.GetResponse()
+   場所 WebServerCom.clsWebCom.WebServerComProc(String sSendData, String& sResText)
+DefaultSource	Error	2	2017/06/20 15:25:07.542	【異常終了】テスト通信処理
+DefaultSource	Error	2	2017/06/20 15:25:07.542	【応答電文】
+
+DefaultSource	Critical	3	2017/06/20 15:26:07.555	リモート サーバーがエラーを返しました: (404) 見つかりません	   場所 System.Net.HttpWebRequest.GetResponse()
+   場所 WebServerCom.clsWebCom.WebServerComProc(String sSendData, String& sResText)
+DefaultSource	Error	2	2017/06/20 15:26:07.555	【異常終了】テスト通信処理
+DefaultSource	Error	2	2017/06/20 15:26:07.555	【応答電文】
+
+DefaultSource	Critical	3	2017/06/20 15:27:07.561	リモート サーバーがエラーを返しました: (404) 見つかりません	   場所 System.Net.HttpWebRequest.GetResponse()
+   場所 WebServerCom.clsWebCom.WebServerComProc(String sSendData, String& sResText)
+DefaultSource	Error	2	2017/06/20 15:27:07.561	【異常終了】テスト通信処理
+DefaultSource	Error	2	2017/06/20 15:27:07.561	【応答電文】
+
+DefaultSource	Critical	3	2017/06/20 15:28:07.568	リモート サーバーがエラーを返しました: (404) 見つかりません	   場所 System.Net.HttpWebRequest.GetResponse()
+   場所 WebServerCom.clsWebCom.WebServerComProc(String sSendData, String& sResText)
+DefaultSource	Error	2	2017/06/20 15:28:07.568	【異常終了】テスト通信処理
+DefaultSource	Error	2	2017/06/20 15:28:07.568	【応答電文】
+
+DefaultSource	Critical	3	2017/06/20 15:29:07.571	リモート サーバーがエラーを返しました: (404) 見つかりません	   場所 System.Net.HttpWebRequest.GetResponse()
+   場所 WebServerCom.clsWebCom.WebServerComProc(String sSendData, String& sResText)
+DefaultSource	Error	2	2017/06/20 15:29:07.571	【異常終了】テスト通信処理
+DefaultSource	Error	2	2017/06/20 15:29:07.571	【応答電文】
+
+DefaultSource	Warning	1	2017/06/20 15:29:43.139	WebServerCom終了
+DefaultSource	Error	2	2017/06/20 15:31:58.423	iniファイル情報が読み込めませんでした。[WebServerCom]:EventStartDate
+DefaultSource	Warning	1	2017/06/20 15:31:58.485	WebServerCom起動完了
+DefaultSource	Critical	3	2017/06/20 15:31:58.906	リモート サーバーがエラーを返しました: (404) 見つかりません	   場所 System.Net.HttpWebRequest.GetResponse()
+   場所 WebServerCom.clsWebCom.WebServerComProc(String sSendData, String& sResText)
+DefaultSource	Error	2	2017/06/20 15:31:58.922	【異常終了】テスト通信処理
+DefaultSource	Error	2	2017/06/20 15:31:58.922	【応答電文】
+
+DefaultSource	Critical	3	2017/06/20 15:32:58.935	リモート サーバーがエラーを返しました: (404) 見つかりません	   場所 System.Net.HttpWebRequest.GetResponse()
+   場所 WebServerCom.clsWebCom.WebServerComProc(String sSendData, String& sResText)
+DefaultSource	Error	2	2017/06/20 15:32:58.935	【異常終了】テスト通信処理
+DefaultSource	Error	2	2017/06/20 15:32:58.935	【応答電文】
+
+DefaultSource	Critical	3	2017/06/20 15:33:58.949	リモート サーバーがエラーを返しました: (404) 見つかりません	   場所 System.Net.HttpWebRequest.GetResponse()
+   場所 WebServerCom.clsWebCom.WebServerComProc(String sSendData, String& sResText)
+DefaultSource	Error	2	2017/06/20 15:33:58.949	【異常終了】テスト通信処理
+DefaultSource	Error	2	2017/06/20 15:33:58.949	【応答電文】
+
+DefaultSource	Critical	3	2017/06/20 15:34:58.962	リモート サーバーがエラーを返しました: (404) 見つかりません	   場所 System.Net.HttpWebRequest.GetResponse()
+   場所 WebServerCom.clsWebCom.WebServerComProc(String sSendData, String& sResText)
+DefaultSource	Error	2	2017/06/20 15:34:58.962	【異常終了】テスト通信処理
+DefaultSource	Error	2	2017/06/20 15:34:58.962	【応答電文】
+
+DefaultSource	Warning	1	2017/06/20 15:35:15.692	WebServerCom終了
+DefaultSource	Error	2	2017/06/20 15:38:16.397	iniファイル情報が読み込めませんでした。[WebServerCom]:EventStartDate
+DefaultSource	Warning	1	2017/06/20 15:38:16.459	WebServerCom起動完了
+DefaultSource	Critical	3	2017/06/20 15:38:16.865	リモート サーバーがエラーを返しました: (404) 見つかりません	   場所 System.Net.HttpWebRequest.GetResponse()
+   場所 WebServerCom.clsWebCom.WebServerComProc(String sSendData, String& sResText)
+DefaultSource	Error	2	2017/06/20 15:38:16.881	【異常終了】テスト通信処理
+DefaultSource	Error	2	2017/06/20 15:38:16.881	【応答電文】
+
+DefaultSource	Critical	3	2017/06/20 15:39:16.894	リモート サーバーがエラーを返しました: (404) 見つかりません	   場所 System.Net.HttpWebRequest.GetResponse()
+   場所 WebServerCom.clsWebCom.WebServerComProc(String sSendData, String& sResText)
+DefaultSource	Error	2	2017/06/20 15:39:16.894	【異常終了】テスト通信処理
+DefaultSource	Error	2	2017/06/20 15:39:16.894	【応答電文】
+
+DefaultSource	Critical	3	2017/06/20 15:40:16.907	リモート サーバーがエラーを返しました: (404) 見つかりません	   場所 System.Net.HttpWebRequest.GetResponse()
+   場所 WebServerCom.clsWebCom.WebServerComProc(String sSendData, String& sResText)
+DefaultSource	Error	2	2017/06/20 15:40:16.907	【異常終了】テスト通信処理
+DefaultSource	Error	2	2017/06/20 15:40:16.907	【応答電文】
+
+DefaultSource	Critical	3	2017/06/20 15:41:16.921	リモート サーバーがエラーを返しました: (404) 見つかりません	   場所 System.Net.HttpWebRequest.GetResponse()
+   場所 WebServerCom.clsWebCom.WebServerComProc(String sSendData, String& sResText)
+DefaultSource	Error	2	2017/06/20 15:41:16.921	【異常終了】テスト通信処理
+DefaultSource	Error	2	2017/06/20 15:41:16.921	【応答電文】
+
+DefaultSource	Critical	3	2017/06/20 15:42:16.924	リモート サーバーがエラーを返しました: (404) 見つかりません	   場所 System.Net.HttpWebRequest.GetResponse()
+   場所 WebServerCom.clsWebCom.WebServerComProc(String sSendData, String& sResText)
+DefaultSource	Error	2	2017/06/20 15:42:16.924	【異常終了】テスト通信処理
+DefaultSource	Error	2	2017/06/20 15:42:16.924	【応答電文】
+
+DefaultSource	Warning	1	2017/06/20 15:43:09.216	WebServerCom終了
+DefaultSource	Error	2	2017/06/20 15:46:27.567	iniファイル情報が読み込めませんでした。[WebServerCom]:EventStartDate
+DefaultSource	Warning	1	2017/06/20 15:46:27.630	WebServerCom起動完了
+DefaultSource	Critical	3	2017/06/20 15:46:28.035	リモート サーバーがエラーを返しました: (404) 見つかりません	   場所 System.Net.HttpWebRequest.GetResponse()
+   場所 WebServerCom.clsWebCom.WebServerComProc(String sSendData, String& sResText)
+DefaultSource	Error	2	2017/06/20 15:46:28.066	【異常終了】テスト通信処理
+DefaultSource	Error	2	2017/06/20 15:46:28.066	【応答電文】
+
+DefaultSource	Critical	3	2017/06/20 15:47:28.080	リモート サーバーがエラーを返しました: (404) 見つかりません	   場所 System.Net.HttpWebRequest.GetResponse()
+   場所 WebServerCom.clsWebCom.WebServerComProc(String sSendData, String& sResText)
+DefaultSource	Error	2	2017/06/20 15:47:28.080	【異常終了】テスト通信処理
+DefaultSource	Error	2	2017/06/20 15:47:28.080	【応答電文】
+
+DefaultSource	Critical	3	2017/06/20 15:48:28.093	リモート サーバーがエラーを返しました: (404) 見つかりません	   場所 System.Net.HttpWebRequest.GetResponse()
+   場所 WebServerCom.clsWebCom.WebServerComProc(String sSendData, String& sResText)
+DefaultSource	Error	2	2017/06/20 15:48:28.093	【異常終了】テスト通信処理
+DefaultSource	Error	2	2017/06/20 15:48:28.093	【応答電文】
+
+DefaultSource	Critical	3	2017/06/20 15:49:28.106	リモート サーバーがエラーを返しました: (404) 見つかりません	   場所 System.Net.HttpWebRequest.GetResponse()
+   場所 WebServerCom.clsWebCom.WebServerComProc(String sSendData, String& sResText)
+DefaultSource	Error	2	2017/06/20 15:49:28.106	【異常終了】テスト通信処理
+DefaultSource	Error	2	2017/06/20 15:49:28.106	【応答電文】
+
+DefaultSource	Critical	3	2017/06/20 15:50:28.120	リモート サーバーがエラーを返しました: (404) 見つかりません	   場所 System.Net.HttpWebRequest.GetResponse()
+   場所 WebServerCom.clsWebCom.WebServerComProc(String sSendData, String& sResText)
+DefaultSource	Error	2	2017/06/20 15:50:28.120	【異常終了】テスト通信処理
+DefaultSource	Error	2	2017/06/20 15:50:28.120	【応答電文】
+
+DefaultSource	Critical	3	2017/06/20 15:51:28.133	リモート サーバーがエラーを返しました: (404) 見つかりません	   場所 System.Net.HttpWebRequest.GetResponse()
+   場所 WebServerCom.clsWebCom.WebServerComProc(String sSendData, String& sResText)
+DefaultSource	Error	2	2017/06/20 15:51:28.133	【異常終了】テスト通信処理
+DefaultSource	Error	2	2017/06/20 15:51:28.133	【応答電文】
+
+DefaultSource	Critical	3	2017/06/20 15:52:28.146	リモート サーバーがエラーを返しました: (404) 見つかりません	   場所 System.Net.HttpWebRequest.GetResponse()
+   場所 WebServerCom.clsWebCom.WebServerComProc(String sSendData, String& sResText)
+DefaultSource	Error	2	2017/06/20 15:52:28.146	【異常終了】テスト通信処理
+DefaultSource	Error	2	2017/06/20 15:52:28.146	【応答電文】
+
+DefaultSource	Warning	1	2017/06/20 15:52:41.562	WebServerCom終了

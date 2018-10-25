@@ -1,0 +1,59 @@
+[PCSConfig_ComProc]
+;;==========================================================
+;; システム設定
+;;----------------------------------------------------------
+;; PCS シリアル通信設定
+;;----------------------------------------------------------
+;; ComStaTime           : PCSデータ収集 開始時刻
+;; ComEndTime           : PCSデータ収集 終了時刻
+;; PCSPollingInterval   : PCSデータ収集 ポーリング間隔（秒）
+;; PCSCommandRetryCnt   : PCSデータ収集 コマンド再送信リトライ回数
+;; PCS_AnsWait          : PCSデータ収集 応答待ち時間
+;; PCS_RetryWait        : PCSデータ収集 再送信待ち時間
+;; PCS_AlmChk           : PCSデータ収集 ＰＣＳ通信異常(分)
+;; AlmChkStaTime        : PCSデータ収集 通信異常検知開始時刻
+;; AlmChkEndTime        : PCSデータ収集 通信異常検知終了時刻
+;; RS_Port              : RS485通信 通信ポート
+;; RS_Baudrate          : RS485通信 ボーレート（bps）
+;; RS_StopBit           : RS485通信 ストップビット
+;; RS_Parity            : RS485通信 パリティ(無し:0、奇数:1、偶数:2)
+;; RS_Length            : RS485通信 データ長
+;; RS_ReadTimeout       : RS485通信 読み取りタイムアウト
+;; RS_PortReset         : RS485通信 通信ポート初期化周期(分)
+;;==========================================================
+ComStaTime=00:00
+ComEndTime=23:59
+PCSPollingInterval=6
+PCSCommandRetryCnt=3
+PCS_AnsWait=250
+PCS_RetryWait=50
+PCS_AlmChk=60
+AlmChkStaTime=05:00
+AlmChkEndTime=20:00
+
+;;Line1
+RS_Port1=COM3
+RS_Baudrate=19200
+RS_StopBit=1
+RS_Parity=0
+RS_Length=8
+RS_ReadTimeout=200
+RS_PortReset=5
+
+;;Line2
+RS_Port2=COM4
+RS_Baudrate2=19200
+RS_StopBit2=1
+RS_Parity2=0
+RS_Length2=8
+RS_ReadTimeout2=200
+RS_PortReset2=5
+
+;;Line3
+RS_Port3=COM5
+RS_Baudrate3=19200
+RS_StopBit3=1
+RS_Parity3=0
+RS_Length3=8
+RS_ReadTimeout3=200
+RS_PortReset3=5

@@ -1,0 +1,570 @@
+﻿DefaultSource	Warning	1	2017/06/20 11:09:19.976	計測データCSV転送プロセス 1 起動中
+DefaultSource	Critical	3	2017/06/20 11:09:20.101	オブジェクト名 'M_MinDefSQL' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 TransCsvProc2.clsDbIo.GetSetting()
+DefaultSource	Error	2	2017/06/20 11:09:20.116	出力情報の読み込みでエラーが発生しました。
+DefaultSource	Warning	1	2017/06/20 11:50:20.074	計測データCSV転送プロセス 1 起動中
+DefaultSource	Warning	1	2017/06/20 11:50:20.245	計測データCSV転送プロセス 1 起動完了
+DefaultSource	Start	4	2017/06/20 11:50:23.365	初回マスタ更新処理開始
+DefaultSource	Start	4	2017/06/20 11:50:23.365	【プロセス情報更新処理】 開始
+DefaultSource	Error	2	2017/06/20 11:50:23.381	プロセス状態マスタに更新対象のレコードが見つかりませんでした。( UPDATE M_Process SET DataYMD = GETDATE()  WHERE Process = 'TransCsvProc2'   AND Title = '計測データCSV転送プロセス 1')
+DefaultSource	Error	2	2017/06/20 11:50:23.381	[2017/06/20 11:50:23] プロセス情報の更新でエラーが発生しました。
+DefaultSource	Stop	5	2017/06/20 11:50:23.381	【プロセス情報更新処理】 終了
+DefaultSource	Stop	5	2017/06/20 11:50:23.381	初回マスター更新処理終了
+DefaultSource	Warning	1	2017/06/20 11:50:24.551	計測データCSV転送プロセス 1 終了
+DefaultSource	Warning	1	2017/06/20 11:56:41.217	計測データCSV転送プロセス 1 起動中
+DefaultSource	Warning	1	2017/06/20 11:56:41.389	計測データCSV転送プロセス 1 起動完了
+DefaultSource	Start	4	2017/06/20 11:56:44.462	初回マスタ更新処理開始
+DefaultSource	Start	4	2017/06/20 11:56:44.462	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 11:56:44.478	【プロセス情報更新処理】 終了
+DefaultSource	Stop	5	2017/06/20 11:56:44.478	初回マスター更新処理終了
+DefaultSource	Start	4	2017/06/20 11:57:44.491	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 11:57:44.491	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 11:58:44.504	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 11:58:44.504	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 11:59:44.518	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 11:59:44.518	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:00:44.531	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:00:44.531	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:01:00.022	【10分データ転送処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:01:00.022	【10分データ転送処理】 終了
+DefaultSource	Critical	3	2017/06/20 12:01:00.037	パス 'D:\MinSndDat\Data1\hand' の一部が見つかりませんでした。	   場所 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   場所 System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   場所 System.IO.DirectoryInfo.GetFiles(String searchPattern, SearchOption searchOption)
+   場所 TransCsvProc2.clsFsIo.DelFileByDate()
+DefaultSource	Start	4	2017/06/20 12:01:41.455	【データ再転送】 開始
+DefaultSource	Stop	5	2017/06/20 12:01:41.455	【データ再転送】 終了
+DefaultSource	Start	4	2017/06/20 12:01:44.544	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:01:44.544	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:02:44.557	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:02:44.557	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:03:44.571	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:03:44.571	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:04:44.584	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:04:44.584	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:05:44.597	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:05:44.597	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:06:41.459	【データ再転送】 開始
+DefaultSource	Stop	5	2017/06/20 12:06:41.459	【データ再転送】 終了
+DefaultSource	Start	4	2017/06/20 12:06:44.611	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:06:44.611	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:07:44.624	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:07:44.624	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:08:44.637	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:08:44.637	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:09:44.651	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:09:44.651	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:10:44.664	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:10:44.664	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:11:00.311	【10分データ転送処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:11:00.311	【10分データ転送処理】 終了
+DefaultSource	Critical	3	2017/06/20 12:11:00.311	パス 'D:\MinSndDat\Data1\hand' の一部が見つかりませんでした。	   場所 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   場所 System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   場所 System.IO.DirectoryInfo.GetFiles(String searchPattern, SearchOption searchOption)
+   場所 TransCsvProc2.clsFsIo.DelFileByDate()
+DefaultSource	Start	4	2017/06/20 12:11:41.464	【データ再転送】 開始
+DefaultSource	Stop	5	2017/06/20 12:11:41.464	【データ再転送】 終了
+DefaultSource	Start	4	2017/06/20 12:11:44.677	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:11:44.677	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:12:44.691	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:12:44.691	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:13:44.704	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:13:44.704	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:14:44.717	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:14:44.717	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:15:44.730	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:15:44.730	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:16:41.468	【データ再転送】 開始
+DefaultSource	Stop	5	2017/06/20 12:16:41.468	【データ再転送】 終了
+DefaultSource	Start	4	2017/06/20 12:16:44.744	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:16:44.744	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:17:44.757	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:17:44.757	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:18:44.770	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:18:44.770	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:19:44.784	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:19:44.784	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:20:44.797	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:20:44.797	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:21:00.600	【10分データ転送処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:21:00.600	【10分データ転送処理】 終了
+DefaultSource	Critical	3	2017/06/20 12:21:00.600	パス 'D:\MinSndDat\Data1\hand' の一部が見つかりませんでした。	   場所 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   場所 System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   場所 System.IO.DirectoryInfo.GetFiles(String searchPattern, SearchOption searchOption)
+   場所 TransCsvProc2.clsFsIo.DelFileByDate()
+DefaultSource	Start	4	2017/06/20 12:21:41.472	【データ再転送】 開始
+DefaultSource	Stop	5	2017/06/20 12:21:41.472	【データ再転送】 終了
+DefaultSource	Start	4	2017/06/20 12:21:44.810	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:21:44.810	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:22:44.824	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:22:44.824	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:23:44.837	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:23:44.837	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:24:44.850	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:24:44.850	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:25:44.863	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:25:44.863	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:26:41.492	【データ再転送】 開始
+DefaultSource	Stop	5	2017/06/20 12:26:41.492	【データ再転送】 終了
+DefaultSource	Start	4	2017/06/20 12:26:44.892	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:26:44.892	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:27:44.906	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:27:44.906	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:28:44.919	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:28:44.919	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:29:44.932	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:29:44.932	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:30:44.946	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:30:44.946	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:31:00.904	【10分データ転送処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:31:00.904	【10分データ転送処理】 終了
+DefaultSource	Critical	3	2017/06/20 12:31:00.904	パス 'D:\MinSndDat\Data1\hand' の一部が見つかりませんでした。	   場所 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   場所 System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   場所 System.IO.DirectoryInfo.GetFiles(String searchPattern, SearchOption searchOption)
+   場所 TransCsvProc2.clsFsIo.DelFileByDate()
+DefaultSource	Start	4	2017/06/20 12:31:41.496	【データ再転送】 開始
+DefaultSource	Stop	5	2017/06/20 12:31:41.496	【データ再転送】 終了
+DefaultSource	Start	4	2017/06/20 12:31:44.959	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:31:44.959	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:32:44.972	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:32:44.972	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:33:44.986	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:33:44.986	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:34:44.999	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:34:44.999	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:35:45.012	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:35:45.012	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:36:41.500	【データ再転送】 開始
+DefaultSource	Stop	5	2017/06/20 12:36:41.500	【データ再転送】 終了
+DefaultSource	Start	4	2017/06/20 12:36:45.025	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:36:45.025	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:37:45.039	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:37:45.039	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:38:45.052	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:38:45.052	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:39:45.065	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:39:45.065	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:40:45.079	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:40:45.079	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:41:00.180	【10分データ転送処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:41:00.180	【10分データ転送処理】 終了
+DefaultSource	Critical	3	2017/06/20 12:41:00.180	パス 'D:\MinSndDat\Data1\hand' の一部が見つかりませんでした。	   場所 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   場所 System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   場所 System.IO.DirectoryInfo.GetFiles(String searchPattern, SearchOption searchOption)
+   場所 TransCsvProc2.clsFsIo.DelFileByDate()
+DefaultSource	Start	4	2017/06/20 12:41:41.504	【データ再転送】 開始
+DefaultSource	Stop	5	2017/06/20 12:41:41.504	【データ再転送】 終了
+DefaultSource	Start	4	2017/06/20 12:41:45.092	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:41:45.092	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:42:45.105	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:42:45.105	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:43:45.119	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:43:45.119	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:44:45.132	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:44:45.132	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:45:45.145	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:45:45.145	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:46:41.508	【データ再転送】 開始
+DefaultSource	Stop	5	2017/06/20 12:46:41.508	【データ再転送】 終了
+DefaultSource	Start	4	2017/06/20 12:46:45.159	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:46:45.159	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:47:45.172	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:47:45.172	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:48:45.185	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:48:45.185	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:49:45.198	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:49:45.198	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:50:45.212	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:50:45.212	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:51:00.469	【10分データ転送処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:51:00.469	【10分データ転送処理】 終了
+DefaultSource	Critical	3	2017/06/20 12:51:00.469	パス 'D:\MinSndDat\Data1\hand' の一部が見つかりませんでした。	   場所 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   場所 System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   場所 System.IO.DirectoryInfo.GetFiles(String searchPattern, SearchOption searchOption)
+   場所 TransCsvProc2.clsFsIo.DelFileByDate()
+DefaultSource	Start	4	2017/06/20 12:51:41.512	【データ再転送】 開始
+DefaultSource	Stop	5	2017/06/20 12:51:41.512	【データ再転送】 終了
+DefaultSource	Start	4	2017/06/20 12:51:45.225	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:51:45.225	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:52:45.238	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:52:45.238	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:53:45.252	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:53:45.252	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:54:45.265	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:54:45.265	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:55:45.278	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:55:45.278	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:56:41.516	【データ再転送】 開始
+DefaultSource	Stop	5	2017/06/20 12:56:41.516	【データ再転送】 終了
+DefaultSource	Start	4	2017/06/20 12:56:45.292	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:56:45.292	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:57:45.305	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:57:45.305	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:58:45.318	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:58:45.318	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 12:59:45.331	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 12:59:45.331	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:00:45.345	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:00:45.345	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:01:00.758	【10分データ転送処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:01:00.758	【10分データ転送処理】 終了
+DefaultSource	Critical	3	2017/06/20 13:01:00.758	パス 'D:\MinSndDat\Data1\hand' の一部が見つかりませんでした。	   場所 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   場所 System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   場所 System.IO.DirectoryInfo.GetFiles(String searchPattern, SearchOption searchOption)
+   場所 TransCsvProc2.clsFsIo.DelFileByDate()
+DefaultSource	Start	4	2017/06/20 13:01:41.520	【データ再転送】 開始
+DefaultSource	Stop	5	2017/06/20 13:01:41.520	【データ再転送】 終了
+DefaultSource	Start	4	2017/06/20 13:01:45.358	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:01:45.358	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:02:45.371	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:02:45.371	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:03:45.385	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:03:45.385	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:04:45.398	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:04:45.398	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:05:45.411	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:05:45.411	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:06:41.525	【データ再転送】 開始
+DefaultSource	Stop	5	2017/06/20 13:06:41.525	【データ再転送】 終了
+DefaultSource	Start	4	2017/06/20 13:06:45.425	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:06:45.425	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:07:45.438	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:07:45.438	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:08:45.451	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:08:45.451	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:09:45.465	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:09:45.465	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:10:45.478	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:10:45.478	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:11:00.033	【10分データ転送処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:11:00.033	【10分データ転送処理】 終了
+DefaultSource	Critical	3	2017/06/20 13:11:00.033	パス 'D:\MinSndDat\Data1\hand' の一部が見つかりませんでした。	   場所 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   場所 System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   場所 System.IO.DirectoryInfo.GetFiles(String searchPattern, SearchOption searchOption)
+   場所 TransCsvProc2.clsFsIo.DelFileByDate()
+DefaultSource	Warning	1	2017/06/20 13:11:34.290	計測データCSV転送プロセス 1 終了
+DefaultSource	Warning	1	2017/06/20 13:12:10.748	計測データCSV転送プロセス 1 起動中
+DefaultSource	Warning	1	2017/06/20 13:12:10.904	計測データCSV転送プロセス 1 起動完了
+DefaultSource	Start	4	2017/06/20 13:12:13.992	初回マスタ更新処理開始
+DefaultSource	Start	4	2017/06/20 13:12:13.992	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:12:14.008	【プロセス情報更新処理】 終了
+DefaultSource	Stop	5	2017/06/20 13:12:14.008	初回マスター更新処理終了
+DefaultSource	Start	4	2017/06/20 13:13:14.021	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:13:14.021	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:14:14.035	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:14:14.035	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:15:14.048	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:15:14.048	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:16:14.061	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:16:14.061	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:17:10.986	【データ再転送】 開始
+DefaultSource	Stop	5	2017/06/20 13:17:10.986	【データ再転送】 終了
+DefaultSource	Start	4	2017/06/20 13:17:14.075	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:17:14.075	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:18:14.088	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:18:14.088	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:19:14.101	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:19:14.101	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:20:14.114	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:20:14.114	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:21:00.291	【10分データ転送処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:21:00.291	【10分データ転送処理】 終了
+DefaultSource	Critical	3	2017/06/20 13:21:00.322	パス 'D:\MinSndDat\Data1\hand' の一部が見つかりませんでした。	   場所 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   場所 System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   場所 System.IO.DirectoryInfo.GetFiles(String searchPattern, SearchOption searchOption)
+   場所 TransCsvProc2.clsFsIo.DelFileByDate()
+DefaultSource	Start	4	2017/06/20 13:21:14.128	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:21:14.128	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:22:11.005	【データ再転送】 開始
+DefaultSource	Stop	5	2017/06/20 13:22:11.005	【データ再転送】 終了
+DefaultSource	Start	4	2017/06/20 13:22:14.157	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:22:14.157	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:23:14.170	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:23:14.170	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:24:14.183	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:24:14.183	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:25:14.197	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:25:14.197	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:26:14.210	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:26:14.210	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:27:11.010	【データ再転送】 開始
+DefaultSource	Stop	5	2017/06/20 13:27:11.010	【データ再転送】 終了
+DefaultSource	Start	4	2017/06/20 13:27:14.223	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:27:14.223	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:28:14.236	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:28:14.236	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:29:14.250	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:29:14.250	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:30:14.263	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:30:14.263	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:31:00.595	【10分データ転送処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:31:00.595	【10分データ転送処理】 終了
+DefaultSource	Critical	3	2017/06/20 13:31:00.595	パス 'D:\MinSndDat\Data1\hand' の一部が見つかりませんでした。	   場所 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   場所 System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   場所 System.IO.DirectoryInfo.GetFiles(String searchPattern, SearchOption searchOption)
+   場所 TransCsvProc2.clsFsIo.DelFileByDate()
+DefaultSource	Start	4	2017/06/20 13:31:14.276	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:31:14.276	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:32:11.014	【データ再転送】 開始
+DefaultSource	Stop	5	2017/06/20 13:32:11.014	【データ再転送】 終了
+DefaultSource	Start	4	2017/06/20 13:32:14.290	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:32:14.290	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:33:14.303	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:33:14.303	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:34:14.316	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:34:14.316	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:35:14.330	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:35:14.330	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:36:14.343	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:36:14.343	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:37:11.018	【データ再転送】 開始
+DefaultSource	Stop	5	2017/06/20 13:37:11.018	【データ再転送】 終了
+DefaultSource	Start	4	2017/06/20 13:37:14.356	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:37:14.356	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:38:14.370	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:38:14.370	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:39:14.383	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:39:14.383	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:40:14.396	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:40:14.396	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:41:00.884	【10分データ転送処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:41:00.884	【10分データ転送処理】 終了
+DefaultSource	Critical	3	2017/06/20 13:41:00.884	パス 'D:\MinSndDat\Data1\hand' の一部が見つかりませんでした。	   場所 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   場所 System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   場所 System.IO.DirectoryInfo.GetFiles(String searchPattern, SearchOption searchOption)
+   場所 TransCsvProc2.clsFsIo.DelFileByDate()
+DefaultSource	Start	4	2017/06/20 13:41:14.409	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:41:14.409	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:42:11.022	【データ再転送】 開始
+DefaultSource	Stop	5	2017/06/20 13:42:11.022	【データ再転送】 終了
+DefaultSource	Start	4	2017/06/20 13:42:14.423	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:42:14.423	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:43:14.436	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:43:14.436	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:44:14.449	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:44:14.449	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:45:14.463	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:45:14.463	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:46:14.476	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:46:14.476	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:47:11.026	【データ再転送】 開始
+DefaultSource	Stop	5	2017/06/20 13:47:11.026	【データ再転送】 終了
+DefaultSource	Start	4	2017/06/20 13:47:14.489	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:47:14.489	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:48:14.503	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:48:14.503	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:49:14.520	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:49:14.520	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:50:14.534	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:50:14.534	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:51:00.164	【10分データ転送処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:51:00.164	【10分データ転送処理】 終了
+DefaultSource	Critical	3	2017/06/20 13:51:00.164	パス 'D:\MinSndDat\Data1\hand' の一部が見つかりませんでした。	   場所 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   場所 System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   場所 System.IO.DirectoryInfo.GetFiles(String searchPattern, SearchOption searchOption)
+   場所 TransCsvProc2.clsFsIo.DelFileByDate()
+DefaultSource	Start	4	2017/06/20 13:51:14.547	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:51:14.547	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:52:11.025	【データ再転送】 開始
+DefaultSource	Stop	5	2017/06/20 13:52:11.025	【データ再転送】 終了
+DefaultSource	Start	4	2017/06/20 13:52:14.551	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:52:14.551	【プロセス情報更新処理】 終了
+DefaultSource	Warning	1	2017/06/20 13:52:26.699	計測データCSV転送プロセス 1 終了
+DefaultSource	Warning	1	2017/06/20 13:57:21.563	計測データCSV転送プロセス 1 起動中
+DefaultSource	Warning	1	2017/06/20 13:57:21.734	計測データCSV転送プロセス 1 起動完了
+DefaultSource	Start	4	2017/06/20 13:57:24.839	初回マスタ更新処理開始
+DefaultSource	Start	4	2017/06/20 13:57:24.839	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:57:24.854	【プロセス情報更新処理】 終了
+DefaultSource	Stop	5	2017/06/20 13:57:24.854	初回マスター更新処理終了
+DefaultSource	Start	4	2017/06/20 13:58:24.867	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:58:24.867	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 13:59:24.881	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 13:59:24.881	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 14:00:24.894	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 14:00:24.894	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 14:01:00.852	【10分データ転送処理】 開始
+DefaultSource	Stop	5	2017/06/20 14:01:00.852	【10分データ転送処理】 終了
+DefaultSource	Critical	3	2017/06/20 14:01:00.868	パス 'D:\MinSndDat\Data1\hand' の一部が見つかりませんでした。	   場所 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   場所 System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   場所 System.IO.DirectoryInfo.GetFiles(String searchPattern, SearchOption searchOption)
+   場所 TransCsvProc2.clsFsIo.DelFileByDate()
+DefaultSource	Start	4	2017/06/20 14:01:24.907	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 14:01:24.907	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 14:02:21.832	【データ再転送】 開始
+DefaultSource	Stop	5	2017/06/20 14:02:21.832	【データ再転送】 終了
+DefaultSource	Start	4	2017/06/20 14:02:24.921	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 14:02:24.921	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 14:03:24.934	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 14:03:24.934	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 14:04:24.947	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 14:04:24.947	【プロセス情報更新処理】 終了
+DefaultSource	Warning	1	2017/06/20 14:05:19.189	計測データCSV転送プロセス 1 終了
+DefaultSource	Warning	1	2017/06/20 14:44:05.131	計測データCSV転送プロセス 1 起動中
+DefaultSource	Warning	1	2017/06/20 14:44:05.349	計測データCSV転送プロセス 1 起動完了
+DefaultSource	Start	4	2017/06/20 14:44:06.488	未転送データ転送処理開始
+DefaultSource	Start	4	2017/06/20 14:44:06.488	【計測データCSV転送処理】 開始
+DefaultSource	Stop	5	2017/06/20 14:44:06.769	【計測データCSV転送処理】 終了
+DefaultSource	Stop	5	2017/06/20 14:44:06.769	未転送データ転送処理終了
+DefaultSource	Start	4	2017/06/20 14:44:08.485	初回マスタ更新処理開始
+DefaultSource	Start	4	2017/06/20 14:44:08.485	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 14:44:08.500	【プロセス情報更新処理】 終了
+DefaultSource	Stop	5	2017/06/20 14:44:08.500	初回マスター更新処理終了
+DefaultSource	Start	4	2017/06/20 14:45:08.515	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 14:45:08.531	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 14:46:08.530	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 14:46:08.530	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 14:47:08.548	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 14:47:08.548	【プロセス情報更新処理】 終了
+DefaultSource	Warning	1	2017/06/20 14:47:10.046	計測データCSV転送プロセス 1 終了
+DefaultSource	Warning	1	2017/06/20 14:53:49.530	計測データCSV転送プロセス 1 起動中
+DefaultSource	Warning	1	2017/06/20 14:53:49.702	計測データCSV転送プロセス 1 起動完了
+DefaultSource	Start	4	2017/06/20 14:53:50.841	未転送データ転送処理開始
+DefaultSource	Start	4	2017/06/20 14:53:50.841	【計測データCSV転送処理】 開始
+DefaultSource	Stop	5	2017/06/20 14:53:51.168	【計測データCSV転送処理】 終了
+DefaultSource	Stop	5	2017/06/20 14:53:51.168	未転送データ転送処理終了
+DefaultSource	Start	4	2017/06/20 14:53:52.838	初回マスタ更新処理開始
+DefaultSource	Start	4	2017/06/20 14:53:52.838	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 14:53:52.853	【プロセス情報更新処理】 終了
+DefaultSource	Stop	5	2017/06/20 14:53:52.853	初回マスター更新処理終了
+DefaultSource	Warning	1	2017/06/20 14:54:37.065	計測データCSV転送プロセス 1 終了
+DefaultSource	Warning	1	2017/06/20 14:58:45.230	計測データCSV転送プロセス 1 起動中
+DefaultSource	Warning	1	2017/06/20 14:58:45.402	計測データCSV転送プロセス 1 起動完了
+DefaultSource	Start	4	2017/06/20 14:58:46.525	未転送データ転送処理開始
+DefaultSource	Start	4	2017/06/20 14:58:46.525	【計測データCSV転送処理】 開始
+DefaultSource	Stop	5	2017/06/20 14:58:46.852	【計測データCSV転送処理】 終了
+DefaultSource	Stop	5	2017/06/20 14:58:46.852	未転送データ転送処理終了
+DefaultSource	Start	4	2017/06/20 14:58:48.522	初回マスタ更新処理開始
+DefaultSource	Start	4	2017/06/20 14:58:48.522	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 14:58:48.537	【プロセス情報更新処理】 終了
+DefaultSource	Stop	5	2017/06/20 14:58:48.537	初回マスター更新処理終了
+DefaultSource	Warning	1	2017/06/20 14:59:02.671	計測データCSV転送プロセス 1 終了
+DefaultSource	Warning	1	2017/06/20 15:04:05.607	計測データCSV転送プロセス 1 起動中
+DefaultSource	Warning	1	2017/06/20 15:04:05.779	計測データCSV転送プロセス 1 起動完了
+DefaultSource	Start	4	2017/06/20 15:04:06.886	未転送データ転送処理開始
+DefaultSource	Start	4	2017/06/20 15:04:06.886	【計測データCSV転送処理】 開始
+DefaultSource	Stop	5	2017/06/20 15:04:07.276	【計測データCSV転送処理】 終了
+DefaultSource	Stop	5	2017/06/20 15:04:07.276	未転送データ転送処理終了
+DefaultSource	Start	4	2017/06/20 15:04:08.883	初回マスタ更新処理開始
+DefaultSource	Start	4	2017/06/20 15:04:08.883	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 15:04:08.899	【プロセス情報更新処理】 終了
+DefaultSource	Stop	5	2017/06/20 15:04:08.899	初回マスター更新処理終了
+DefaultSource	Warning	1	2017/06/20 15:04:22.159	計測データCSV転送プロセス 1 終了
+DefaultSource	Warning	1	2017/06/20 15:06:40.021	計測データCSV転送プロセス 1 起動中
+DefaultSource	Warning	1	2017/06/20 15:06:40.192	計測データCSV転送プロセス 1 起動完了
+DefaultSource	Start	4	2017/06/20 15:06:41.285	未転送データ転送処理開始
+DefaultSource	Start	4	2017/06/20 15:06:41.285	【計測データCSV転送処理】 開始
+DefaultSource	Stop	5	2017/06/20 15:06:41.675	【計測データCSV転送処理】 終了
+DefaultSource	Stop	5	2017/06/20 15:06:41.675	未転送データ転送処理終了
+DefaultSource	Start	4	2017/06/20 15:06:43.281	初回マスタ更新処理開始
+DefaultSource	Start	4	2017/06/20 15:06:43.281	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 15:06:43.297	【プロセス情報更新処理】 終了
+DefaultSource	Stop	5	2017/06/20 15:06:43.297	初回マスター更新処理終了
+DefaultSource	Warning	1	2017/06/20 15:07:00.332	計測データCSV転送プロセス 1 終了
+DefaultSource	Warning	1	2017/06/20 15:13:34.927	計測データCSV転送プロセス 1 起動中
+DefaultSource	Warning	1	2017/06/20 15:13:35.114	計測データCSV転送プロセス 1 起動完了
+DefaultSource	Start	4	2017/06/20 15:13:36.222	未転送データ転送処理開始
+DefaultSource	Start	4	2017/06/20 15:13:36.222	【計測データCSV転送処理】 開始
+DefaultSource	Stop	5	2017/06/20 15:13:36.674	【計測データCSV転送処理】 終了
+DefaultSource	Stop	5	2017/06/20 15:13:36.674	未転送データ転送処理終了
+DefaultSource	Start	4	2017/06/20 15:13:38.218	初回マスタ更新処理開始
+DefaultSource	Start	4	2017/06/20 15:13:38.218	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 15:13:38.234	【プロセス情報更新処理】 終了
+DefaultSource	Stop	5	2017/06/20 15:13:38.234	初回マスター更新処理終了
+DefaultSource	Warning	1	2017/06/20 15:14:01.150	計測データCSV転送プロセス 1 終了
+DefaultSource	Warning	1	2017/06/20 15:18:32.189	計測データCSV転送プロセス 1 起動中
+DefaultSource	Warning	1	2017/06/20 15:18:32.361	計測データCSV転送プロセス 1 起動完了
+DefaultSource	Start	4	2017/06/20 15:18:33.469	未転送データ転送処理開始
+DefaultSource	Start	4	2017/06/20 15:18:33.469	【計測データCSV転送処理】 開始
+DefaultSource	Stop	5	2017/06/20 15:18:33.921	【計測データCSV転送処理】 終了
+DefaultSource	Stop	5	2017/06/20 15:18:33.921	未転送データ転送処理終了
+DefaultSource	Start	4	2017/06/20 15:18:35.465	初回マスタ更新処理開始
+DefaultSource	Start	4	2017/06/20 15:18:35.465	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 15:18:35.481	【プロセス情報更新処理】 終了
+DefaultSource	Stop	5	2017/06/20 15:18:35.481	初回マスター更新処理終了
+DefaultSource	Start	4	2017/06/20 15:19:35.483	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 15:19:35.483	【プロセス情報更新処理】 終了
+DefaultSource	Warning	1	2017/06/20 15:19:51.379	計測データCSV転送プロセス 1 終了
+DefaultSource	Warning	1	2017/06/20 15:26:29.341	計測データCSV転送プロセス 1 起動中
+DefaultSource	Warning	1	2017/06/20 15:26:29.513	計測データCSV転送プロセス 1 起動完了
+DefaultSource	Start	4	2017/06/20 15:26:30.636	未転送データ転送処理開始
+DefaultSource	Start	4	2017/06/20 15:26:30.636	【計測データCSV転送処理】 開始
+DefaultSource	Stop	5	2017/06/20 15:26:31.151	【計測データCSV転送処理】 終了
+DefaultSource	Stop	5	2017/06/20 15:26:31.151	未転送データ転送処理終了
+DefaultSource	Start	4	2017/06/20 15:26:32.633	初回マスタ更新処理開始
+DefaultSource	Start	4	2017/06/20 15:26:32.633	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 15:26:32.648	【プロセス情報更新処理】 終了
+DefaultSource	Stop	5	2017/06/20 15:26:32.648	初回マスター更新処理終了
+DefaultSource	Start	4	2017/06/20 15:27:32.671	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 15:27:32.671	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 15:28:32.674	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 15:28:32.674	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 15:29:32.687	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 15:29:32.687	【プロセス情報更新処理】 終了
+DefaultSource	Warning	1	2017/06/20 15:29:43.373	計測データCSV転送プロセス 1 終了
+DefaultSource	Warning	1	2017/06/20 15:33:20.822	計測データCSV転送プロセス 1 起動中
+DefaultSource	Warning	1	2017/06/20 15:33:21.025	計測データCSV転送プロセス 1 起動完了
+DefaultSource	Start	4	2017/06/20 15:33:22.148	未転送データ転送処理開始
+DefaultSource	Start	4	2017/06/20 15:33:22.148	【計測データCSV転送処理】 開始
+DefaultSource	Stop	5	2017/06/20 15:33:22.725	【計測データCSV転送処理】 終了
+DefaultSource	Stop	5	2017/06/20 15:33:22.725	未転送データ転送処理終了
+DefaultSource	Start	4	2017/06/20 15:33:24.145	初回マスタ更新処理開始
+DefaultSource	Start	4	2017/06/20 15:33:24.145	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 15:33:24.161	【プロセス情報更新処理】 終了
+DefaultSource	Stop	5	2017/06/20 15:33:24.161	初回マスター更新処理終了
+DefaultSource	Start	4	2017/06/20 15:34:24.174	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 15:34:24.174	【プロセス情報更新処理】 終了
+DefaultSource	Warning	1	2017/06/20 15:35:15.910	計測データCSV転送プロセス 1 終了
+DefaultSource	Warning	1	2017/06/20 15:39:38.734	計測データCSV転送プロセス 1 起動中
+DefaultSource	Warning	1	2017/06/20 15:39:38.906	計測データCSV転送プロセス 1 起動完了
+DefaultSource	Start	4	2017/06/20 15:39:39.998	未転送データ転送処理開始
+DefaultSource	Start	4	2017/06/20 15:39:39.998	【計測データCSV転送処理】 開始
+DefaultSource	Stop	5	2017/06/20 15:39:40.575	【計測データCSV転送処理】 終了
+DefaultSource	Stop	5	2017/06/20 15:39:40.575	未転送データ転送処理終了
+DefaultSource	Start	4	2017/06/20 15:39:41.994	初回マスタ更新処理開始
+DefaultSource	Start	4	2017/06/20 15:39:41.994	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 15:39:42.010	【プロセス情報更新処理】 終了
+DefaultSource	Stop	5	2017/06/20 15:39:42.010	初回マスター更新処理終了
+DefaultSource	Start	4	2017/06/20 15:40:42.023	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 15:40:42.023	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 15:41:00.728	【10分データ転送処理】 開始
+DefaultSource	Stop	5	2017/06/20 15:41:00.728	【10分データ転送処理】 終了
+DefaultSource	Critical	3	2017/06/20 15:41:00.759	パス 'D:\MinSndDat\Data1\hand' の一部が見つかりませんでした。	   場所 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   場所 System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   場所 System.IO.DirectoryInfo.GetFiles(String searchPattern, SearchOption searchOption)
+   場所 TransCsvProc2.clsFsIo.DelFileByDate()
+DefaultSource	Start	4	2017/06/20 15:41:42.037	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 15:41:42.037	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 15:42:42.056	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 15:42:42.056	【プロセス情報更新処理】 終了
+DefaultSource	Warning	1	2017/06/20 15:43:09.372	計測データCSV転送プロセス 1 終了
+DefaultSource	Warning	1	2017/06/20 15:47:49.888	計測データCSV転送プロセス 1 起動中
+DefaultSource	Warning	1	2017/06/20 15:47:50.044	計測データCSV転送プロセス 1 起動完了
+DefaultSource	Start	4	2017/06/20 15:47:53.164	初回マスタ更新処理開始
+DefaultSource	Start	4	2017/06/20 15:47:53.164	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 15:47:53.180	【プロセス情報更新処理】 終了
+DefaultSource	Stop	5	2017/06/20 15:47:53.180	初回マスター更新処理終了
+DefaultSource	Start	4	2017/06/20 15:48:53.193	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 15:48:53.193	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 15:49:53.207	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 15:49:53.207	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 15:50:53.220	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 15:50:53.220	【プロセス情報更新処理】 終了
+DefaultSource	Start	4	2017/06/20 15:51:00.802	【10分データ転送処理】 開始
+DefaultSource	Stop	5	2017/06/20 15:51:00.802	【10分データ転送処理】 終了
+DefaultSource	Critical	3	2017/06/20 15:51:00.833	パス 'D:\MinSndDat\Data1\hand' の一部が見つかりませんでした。	   場所 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   場所 System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   場所 System.IO.DirectoryInfo.GetFiles(String searchPattern, SearchOption searchOption)
+   場所 TransCsvProc2.clsFsIo.DelFileByDate()
+DefaultSource	Start	4	2017/06/20 15:51:53.233	【プロセス情報更新処理】 開始
+DefaultSource	Stop	5	2017/06/20 15:51:53.233	【プロセス情報更新処理】 終了
+DefaultSource	Warning	1	2017/06/20 15:52:41.734	計測データCSV転送プロセス 1 終了

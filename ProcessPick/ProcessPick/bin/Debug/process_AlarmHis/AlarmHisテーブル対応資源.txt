@@ -1,0 +1,12 @@
+AlarmHisテーブルに対応しているプロセスの以下のプロセスです。
+●は通常Alarmテーブルと両対応
+                 オリックス版  通常版
+●StartProc2        :V.2.2.0.2    V.1.4.8.0
+●PCSComProc        :V.3.0.1.0    V.2.36.6.0
+●PCSTimeManager    :V.3.0.5.0    V.2.30.4.1
+●ADAMComProc       :V.3.0.4.0    V.1.1.0.0
+　MRnManager        :V.3.0.3.0    V.2.1.2.0
+　TimeManager       :V.5.1.0.2    V.3.4.0.0
+　TimeManager_1000  :V.5.1.0.2    V.3.4.0.0
+　SubPlantDataProc  :V.3.1.0.0    V.1.2.0.0
+　AlarmMail         :V.3.8.1.0    V.3.3.3.0

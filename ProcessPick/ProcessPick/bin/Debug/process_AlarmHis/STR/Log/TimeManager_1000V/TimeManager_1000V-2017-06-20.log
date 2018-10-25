@@ -1,0 +1,1327 @@
+﻿DefaultSource	Warning	1	2017/06/20 14:42:16.872	String時間管理プロセス起動
+DefaultSource	Critical	3	2017/06/20 14:42:17.013	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 14:42:17.028	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 14:42:47.074	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 14:42:47.074	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 14:43:17.073	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 14:43:17.073	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 14:43:47.081	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 14:43:47.081	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 14:44:17.096	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 14:44:17.096	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 14:44:47.112	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 14:44:47.112	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 14:45:17.126	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 14:45:17.126	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 14:45:47.141	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 14:45:47.141	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 14:46:17.156	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 14:46:17.156	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 14:46:47.183	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 14:46:47.183	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 14:47:17.191	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 14:47:17.191	【異常終了】ユニットマスタ取得
+DefaultSource	Warning	1	2017/06/20 14:47:23.899	String時間管理プロセス終了
+DefaultSource	Warning	1	2017/06/20 14:52:22.158	String時間管理プロセス起動
+DefaultSource	Critical	3	2017/06/20 14:52:22.267	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 14:52:22.298	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 14:52:52.332	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 14:52:52.332	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 14:53:22.330	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 14:53:22.330	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 14:53:52.338	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 14:53:52.338	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 14:54:22.353	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 14:54:22.353	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 14:54:52.369	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 14:54:52.369	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 14:55:22.387	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 14:55:22.387	【異常終了】ユニットマスタ取得
+DefaultSource	Warning	1	2017/06/20 14:55:29.423	String時間管理プロセス終了
+DefaultSource	Warning	1	2017/06/20 14:57:17.022	String時間管理プロセス起動
+DefaultSource	Critical	3	2017/06/20 14:57:17.116	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 14:57:17.132	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 14:57:47.162	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 14:57:47.162	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 14:58:17.150	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 14:58:17.150	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 14:58:47.164	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 14:58:47.164	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 14:59:17.179	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 14:59:17.179	【異常終了】ユニットマスタ取得
+DefaultSource	Warning	1	2017/06/20 14:59:37.116	String時間管理プロセス終了
+DefaultSource	Warning	1	2017/06/20 15:17:04.517	String時間管理プロセス起動
+DefaultSource	Critical	3	2017/06/20 15:17:04.611	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:17:04.642	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 15:17:34.672	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:17:34.672	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 15:18:04.671	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:18:04.671	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 15:18:34.685	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:18:34.685	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 15:19:04.690	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:19:04.690	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 15:19:34.703	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:19:34.703	【異常終了】ユニットマスタ取得
+DefaultSource	Warning	1	2017/06/20 15:19:51.208	String時間管理プロセス終了
+DefaultSource	Warning	1	2017/06/20 15:25:01.738	String時間管理プロセス起動
+DefaultSource	Critical	3	2017/06/20 15:25:01.832	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:25:01.863	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 15:25:31.893	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:25:31.893	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 15:26:01.892	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:26:01.892	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 15:26:31.899	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:26:31.899	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 15:27:01.914	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:27:01.914	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 15:27:31.938	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:27:31.938	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 15:28:01.952	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:28:01.952	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 15:28:31.956	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:28:31.956	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 15:29:01.970	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:29:01.970	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 15:29:31.985	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:29:31.985	【異常終了】ユニットマスタ取得
+DefaultSource	Warning	1	2017/06/20 15:29:43.295	String時間管理プロセス終了
+DefaultSource	Warning	1	2017/06/20 15:31:53.088	String時間管理プロセス起動
+DefaultSource	Critical	3	2017/06/20 15:31:53.181	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:31:53.212	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 15:32:23.242	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:32:23.242	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 15:32:53.241	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:32:53.241	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 15:33:23.256	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:33:23.256	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 15:33:53.270	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:33:53.270	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 15:34:23.285	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:34:23.285	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 15:34:53.299	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:34:53.299	【異常終了】ユニットマスタ取得
+DefaultSource	Warning	1	2017/06/20 15:35:15.832	String時間管理プロセス終了
+DefaultSource	Warning	1	2017/06/20 15:38:11.124	String時間管理プロセス起動
+DefaultSource	Critical	3	2017/06/20 15:38:11.218	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:38:11.249	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 15:38:41.279	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:38:41.279	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 15:39:11.278	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:39:11.278	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 15:39:41.292	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:39:41.292	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 15:40:11.307	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:40:11.307	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 15:40:41.321	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:40:41.321	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 15:41:11.336	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:41:11.336	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 15:41:41.350	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:41:41.350	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 15:42:11.365	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:42:11.365	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 15:42:41.385	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:42:41.385	【異常終了】ユニットマスタ取得
+DefaultSource	Warning	1	2017/06/20 15:43:09.309	String時間管理プロセス終了
+DefaultSource	Warning	1	2017/06/20 15:46:22.232	String時間管理プロセス起動
+DefaultSource	Critical	3	2017/06/20 15:46:22.325	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:46:22.341	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 15:46:52.387	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:46:52.387	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 15:47:22.386	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:47:22.386	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 15:47:52.400	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:47:52.400	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 15:48:22.415	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:48:22.415	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 15:48:52.429	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:48:52.429	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 15:49:22.443	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:49:22.443	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 15:49:52.458	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:49:52.458	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 15:50:22.472	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:50:22.472	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 15:50:52.487	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:50:52.487	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 15:51:22.501	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:51:22.501	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 15:51:52.516	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:51:52.516	【異常終了】ユニットマスタ取得
+DefaultSource	Critical	3	2017/06/20 15:52:22.530	列名 'Port_10' が無効です。
+列名 'Port_11' が無効です。
+列名 'CorrectI_9' が無効です。
+列名 'CorrectI_10' が無効です。
+列名 'CorrectJ_9' が無効です。
+列名 'CorrectJ_10' が無効です。	   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   場所 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   場所 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   場所 StrTimeManager_1000V.clsDbIo.GetUnitMaster(stUnitInfo[]& tStrUnitInf)
+DefaultSource	Error	2	2017/06/20 15:52:22.530	【異常終了】ユニットマスタ取得
+DefaultSource	Warning	1	2017/06/20 15:52:41.671	String時間管理プロセス終了
